@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.i1{
+    border: 2px solid red;
+    color: blue;
+    height: 100vh;
+}
